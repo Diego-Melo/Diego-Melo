@@ -15,7 +15,7 @@
 
 - 📫 Como me contatar: **diegomelo624@gmail.com**
 
-- ⚡ Fato interessante **Sempre tomo café quando estou programando.**
+- ⚡ Fato interessante **sempre tomo café enquando estou programando.**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
@@ -36,5 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diego-melo&theme=dark" alt="diego-melo" /></p>
 
+
+<h3 align="left">Atividades:</h3>
 
 ![Snake animation](https://github.com/Diego-Melo/Diego-Melo/blob/output/github-contribution-grid-snake.svg)
