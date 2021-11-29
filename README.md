@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio Diego Melo do Nascimento</h1>
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
 <p align="center">
-<img src="https://i.ibb.co/Xk4yL6K/My-Octo-Cat.png" height="300px">
+<img src="https://uploaddeimagens.com.br/images/003/559/548/full/MyOctoCat.png" height="300px">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-melo&label=Profile%20views&color=0e75b6&style=flat" alt="diego-melo" /> </p>
 
